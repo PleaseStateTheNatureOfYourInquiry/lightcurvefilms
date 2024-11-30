@@ -107,8 +107,13 @@ Astronomy & Astrophysics 50 Years Young (2019)
 Living the Tradition (2014/2017)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. youtube:: Kpdg_2KTags
+
+(trailer)
+
 | Self-production in collaboration with `Ilse de Ziah <https://playcellomusic.com/>`_.
 | Film website with links and information `livingthetradition.com <http://livingthetradition.com/>`_.
+| Best Documentary Feature at the EIFF Film Festival (2014); Consonance Fan Award (2020).
 
 .. figure:: ./images/LivingTheTradition.jpg
    :scale: 25%
@@ -147,6 +152,7 @@ Our Last Transit of Venus (2012)
 
 | Produced with the support of `EUROVENUS <https://www.eurovenus.eu/>`_, University of Oxford, `Europlanet <https://www.europlanet-society.org/>`_, `Paris-Meudon Observatory <https://www.obspm.fr>`_ (France), Observatoire de la Côte d'Azur (France).
 | `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd4JTfg6kzKE3FkE0p4vXs6x&si=WvIdOL5WPkXKtLOH>`__.
+| El Trofeo `IAMS – BICC <https://asecic.org/>`_ Ronda 2016 a la mejor imagen (IAMS - BICC 2016 Trophy for best photography).
 
 
 |
@@ -198,6 +204,7 @@ Spiral Galaxy, the Milkyway Unravelled(2009)
 | Self-production in collaboration with `Pieter-Rim de Kroon <https://www.pieterrimdekroon.com/>`_; supported by International Year of Astronomy 2009, `NOVA <https://www.astronomie.nl/over-nova>`_, `ZCENE <https://zcene.nl/>`_, `Media Junkies <https://www.mediajunkies.nl/>`_.
 | Spiral Galaxy, the Milkyway Unravelled (2009) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7O1GqlbGkItEPQjPyGfPRh&si=LudHcwz7HS5rGDyP>`__.
 | Film website with links and background information `lightcurvefilms.com/spiralgalaxy <https://lightcurvefilms.com/spiralgalaxy/>`_.
+| Broadcast on Dutch `Holland Doc TV <https://www.vpro.nl/speel~POMS_S_VPRO_083953~holland-doc~.html>`_ channel (2009).
 
 |
 
