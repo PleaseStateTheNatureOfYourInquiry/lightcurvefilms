@@ -3,7 +3,7 @@
 Lightcurve Films Portfolio
 ==========================
 
-`Lightcurve Films Youtube channel <https://www.youtube.com/channel/UCOABPjFCPxAo3tXK7w1A2Pw>`_
+`Lightcurve Films Youtube channel <https://www.youtube.com/channel/UCOABPjFCPxAo3tXK7w1A2Pw>`_.
 
 
 Documentaries
@@ -15,9 +15,9 @@ Let's Smile (2024-2026)
 
 .. youtube:: Dlx6SvkWIFE
 
-| Produced for ESA / Smile.
-| `Introducing the Smile mission - Let's Smile (episode 1) <https://www.esa.int/ESA_Multimedia/Videos/2024/11/Introducing_the_Smile_mission_Let_s_Smile_episode_1>`_
-| `Let's Smile Playlist (ESA) <https://youtube.com/playlist?list=PLbyvawxScNbs1q8UOu60vte7t6U1SXR2Z&si=LOU05y0aeE539uYV>`_
+| Produced for `ESA / Smile <https://www.cosmos.esa.int/web/smile/>`_.
+| `Introducing the Smile mission - Let's Smile (episode 1) <https://www.esa.int/ESA_Multimedia/Videos/2024/11/Introducing_the_Smile_mission_Let_s_Smile_episode_1>`_.
+| `Let's Smile Playlist (ESA) <https://youtube.com/playlist?list=PLbyvawxScNbs1q8UOu60vte7t6U1SXR2Z&si=LOU05y0aeE539uYV>`_.
 
 |
 
@@ -26,7 +26,7 @@ The Journey of Juice (2024-2031)
 
 .. youtube:: FO9TJ9UJLsg
 
-| Produced for ESA / Juice.
+| Produced for `ESA / Juice <https://www.esa.int/Science_Exploration/Space_Science/Juice>`_.
 | `The Journey of Juice Youtube channel (2024-2031) <https://www.youtube.com/channel/UClK7xrwF0-XVl5IsG9SFKEA>`_.  
 | `The journey of Juice – episode 1 (ESA) <https://www.esa.int/ESA_Multimedia/Videos/2024/09/The_journey_of_Juice_episode_1>`_.
 
@@ -38,7 +38,7 @@ The Making of Juice (2023)
 
 .. youtube:: Ez89DfMmxqk
 
-| Produced for ESA / Juice.
+| Produced for `ESA / Juice <https://www.esa.int/Science_Exploration/Space_Science/Juice>`_.
 | The Making of Juice `Youtube channel (2020-2023) <https://www.youtube.com/channel/UClK7xrwF0-XVl5IsG9SFKEA>`_ with all the episodes (1, 2, ..., 10a, b, c), snippets of action, presentations and the full film in one place.
 
 
@@ -53,7 +53,7 @@ We the Zeme (2021)
 
 .. youtube:: SzlKskt_j3M
 
-| Produced by the `Oxford Documentary Film Institute <https://odfi.co.uk/in-production/>`_ (I was the editor on this project).
+| Produced by the `Oxford Documentary Film Institute <https://odfi.co.uk/in-production/>`_. I was the editor on this project.
 | The film has won 4 categories of Documentary Film Festivals and has one Special Jury Award. 
 
 
@@ -66,17 +66,17 @@ VIS for Euclid (2020)
 
 .. youtube:: stf7EmezKBg
 
-| Produced for Euclid France.
+| Produced for `Euclid France <https://euclid-france.fr/>`_.
 
 |
 
 
-EDP Science 100 Years (2020)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EDP Sciences 100 Years (2020)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. youtube:: lFn2qcMlAR0
 
-| Produced for EDP Science.
+| Produced for `EDP Sciences <https://www.edpsciences.org/en/>`_.
 | Potentially the most boring film in the Universe, except for the Harry Potter scene with Jean Lilenstein at 6m14s. 
 
 |
@@ -87,7 +87,7 @@ Claude Monet (2019)
 
 .. youtube:: GCzK0bn_0iU
 
-| Produced by Maarten de Kroon. I was DOP and editor. 
+| Produced by `Maarten de Kroon G.O. Docs <https://www.maartendekroon.nl/>`_. I was DOP and editor on this project. 
 | Presented at the Monet exhibition in the Kunstmuseum in Den Haag in 2019.
 
 |
@@ -99,7 +99,7 @@ Astronomy & Astrophysics 50 Years Young (2019)
 
 .. youtube:: bQHoCyh4BoU
 
-| Produced for A&A.
+| Produced for `Astronomy & Astrophysics <https://www.aanda.org/>`_.
 | Potentially boring, but surprisingly engaging and relevant, especially the *Discussion* chapter starting at 45m:44s! Structured after a scientific paper.
 
 |
@@ -107,10 +107,8 @@ Astronomy & Astrophysics 50 Years Young (2019)
 Living the Tradition (2014/2017)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Self-production in collaboration with Ilse de Ziah.
-| Film website with links and information `livingthetradition.com <http://livingthetradition.com/>`_
-
-|
+| Self-production in collaboration with `Ilse de Ziah <https://playcellomusic.com/>`_.
+| Film website with links and information `livingthetradition.com <http://livingthetradition.com/>`_.
 
 .. figure:: ./images/LivingTheTradition.jpg
    :scale: 25%
@@ -134,7 +132,7 @@ Craft Beer in Japan (2016)
 
 .. youtube:: PBEZRjTeJvk
 
-| Produced for Great Dane Brewing Company.
+| Produced for `Great Dane Pub & Brewing Company <https://www.greatdanepub.com/>`_.
 
 .. figure:: ./images/CraftBeerInJapan.jpg
    :scale: 17%
@@ -147,8 +145,8 @@ Our Last Transit of Venus (2012)
 
 .. youtube:: G4lqwhm6SLg
 
-| Produced with the support of EUROVENUS, University of Oxford, `Europlanet <https://www.europlanet-society.org/>`_, Paris-Meudon Observatory (France), Observatoire de la Côte d'Azur (France).
-| `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd4JTfg6kzKE3FkE0p4vXs6x&si=WvIdOL5WPkXKtLOH>`__
+| Produced with the support of `EUROVENUS <https://www.eurovenus.eu/>`_, University of Oxford, `Europlanet <https://www.europlanet-society.org/>`_, `Paris-Meudon Observatory <https://www.obspm.fr>`_ (France), Observatoire de la Côte d'Azur (France).
+| `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd4JTfg6kzKE3FkE0p4vXs6x&si=WvIdOL5WPkXKtLOH>`__.
 
 
 |
@@ -169,7 +167,7 @@ My Old Hand Crank Camera (2012)
 
 .. youtube:: jTnX-GqfmFg
 
-| Self-production in collaboration with Pieter-Rim de Kroon.
+| Self-production in collaboration with `Pieter-Rim de Kroon <https://www.pieterrimdekroon.com/>`_.
 
 |
 
@@ -179,7 +177,7 @@ De Kakels (2011)
 
 .. youtube:: BjkNYulfVAk
 
-| Produced for the Dutch Lungcancer Information Center.
+| Produced for the `Dutch Lungcancer Information Center <https://www.longkankernederland.nl/>`_.
 
 | 
 
@@ -188,7 +186,7 @@ VIRTIS (2010)
 
 .. youtube:: x2kf7M83svM
 
-| Produced for the Paris-Meudon Observatory, INAF.
+| Produced for the `Paris-Meudon Observatory <https://www.obspm.fr>`_, `INAF (National Institute for Astrophysics, Italy) <http://www.inaf.it/en>`_.
 
 |
 
@@ -197,10 +195,9 @@ Spiral Galaxy, the Milkyway Unravelled(2009)
 
 .. youtube:: aKQvzf4zRZM
 
-| Self-production in collaboration with Pieter-Rim de Kroon.
-
-| Spiral Galaxy, the Milkyway Unravelled (2009) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7O1GqlbGkItEPQjPyGfPRh&si=LudHcwz7HS5rGDyP>`__
-| Film website with links and background information `lightcurvefilms.com/spiralgalaxy <https://http://lightcurvefilms.com/spiralgalaxy/>`_.
+| Self-production in collaboration with `Pieter-Rim de Kroon <https://www.pieterrimdekroon.com/>`_; supported by International Year of Astronomy 2009, `NOVA <https://www.astronomie.nl/over-nova>`_, `ZCENE <https://zcene.nl/>`_, `Media Junkies <https://www.mediajunkies.nl/>`_.
+| Spiral Galaxy, the Milkyway Unravelled (2009) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7O1GqlbGkItEPQjPyGfPRh&si=LudHcwz7HS5rGDyP>`__.
+| Film website with links and background information `lightcurvefilms.com/spiralgalaxy <https://lightcurvefilms.com/spiralgalaxy/>`_.
 
 |
 
@@ -214,7 +211,7 @@ Go with the Flow of the North Atlantic Ocean (2015)
 
 .. youtube:: a-lhCIQjE4c
 
-| Produced for `Science Media <https://sciencemedia.nl/>`.
+| Produced for `Science Media <https://sciencemedia.nl/>`_.
 
 |
 
@@ -223,8 +220,8 @@ Exploring and Understanding the Universe (2011-2013)
 
 .. youtube:: v=0PcDwIFzC3
 
-| Produced for the Paris-Meudon Observatory.
-| Exploring and Understanding the Universe (2011-2013) `(full playlist)   <https://youtube.com/playlist?list=PL7WXOBl9RPd7lXOG60XgpeoXefUuPBSpd&si=MqedNteDBirCvWM4>`__
+| Produced for the `Paris-Meudon Observatory <https://www.obspm.fr>`_.
+| Exploring and Understanding the Universe (2011-2013) `(full playlist)   <https://youtube.com/playlist?list=PL7WXOBl9RPd7lXOG60XgpeoXefUuPBSpd&si=MqedNteDBirCvWM4>`__.
 
 |
 
@@ -233,7 +230,7 @@ Water, Herschel & HIFI (2012)
 
 .. youtube:: J-9Vcf5OzqU
 
-| Produced for SRON, the Netherlands.
+| Produced for `SRON <https://www.sron.nl/>`_, the Netherlands.
 
 
 Rosetta’s Comet Touchdown (2010)
@@ -241,8 +238,8 @@ Rosetta’s Comet Touchdown (2010)
 
 .. youtube:: IY2R1-RYCJ0
 
-| Produced for ESA.
-| Rosetta’s Comet Touchdown (2010) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd4ZOwReKyYsZRz0FJmpLlsO&si=xXhcMERs0MLH6kMY>`__
+| Produced for `ESA / Rosetta <https://www.esa.int/Science_Exploration/Space_Science/Rosetta>`_.
+| Rosetta’s Comet Touchdown (2010) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd4ZOwReKyYsZRz0FJmpLlsO&si=xXhcMERs0MLH6kMY>`__.
 
 
 
@@ -252,8 +249,8 @@ Beyond the Red (2008)
 
 .. youtube:: DzwLNB4-QAg
 
-| Produced for ESA and `Sterne Und Weltraum <https://www.spektrum.de/magazin/sterne-und-weltraum/>`_.
-| Beyond the Red (2008) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd75SMKhV2OcpaQ6OiTRqxSl&si=r_P5fJBwmxba5Q5D>`__
+| Produced for `ESA <https://esa.int>`_ and `Sterne Und Weltraum <https://www.spektrum.de/magazin/sterne-und-weltraum/>`_.
+| Beyond the Red (2008) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd75SMKhV2OcpaQ6OiTRqxSl&si=r_P5fJBwmxba5Q5D>`__.
 
 
 
@@ -263,8 +260,8 @@ A Breath of Venus (2007)
 
 .. youtube:: pMXEmm-1CPA
 
-| Produced for ESA / Venus Express.
-| A Breath of Venus (2007) `(full playklist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7xf5OG8pbQ81D5qoq45K6j&si=nJiiBEtOLuEmn243>`__
+| Produced for `ESA / Venus Express <https://www.esa.int/Science_Exploration/Space_Science/Venus_Express>`_.
+| A Breath of Venus (2007) `(full playklist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7xf5OG8pbQ81D5qoq45K6j&si=nJiiBEtOLuEmn243>`__.
 
 
 
@@ -303,7 +300,8 @@ De Sitter Meesterastronoom (2016)
 
 .. youtube:: tv2EgemZ_0o
 
-| De Sitter Meesterastronoom (2016) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd5Aut_T1fR2XTODTmTKohj6&si=bWP-Y7GKyduc9CGo>`_
+| Self-production.
+| De Sitter Meesterastronoom (2016) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd5Aut_T1fR2XTODTmTKohj6&si=bWP-Y7GKyduc9CGo>`_.
 
 |
 
@@ -312,7 +310,7 @@ Solar Activity and Climate (2011)
 
 .. youtube:: PUCzeOX--Fk
 
-| Produced for SRON, the Netherlands.
+| Produced for `SRON <https://www.sron.nl/>`_, the Netherlands.
 
 |
 
@@ -338,8 +336,8 @@ Testing Smile (2022)
 .. youtube:: O38FEaOKoHM
 
 
-| Produced for ESA / Smile.
-| `Testing SMILE (ESA) (2022) <https://www.esa.int/ESA_Multimedia/Videos/2022/04/Highlights_from_the_test_campaign_of_the_Smile_payload_module_in_Europe>`_
+| Produced for `ESA / Smile <https://www.cosmos.esa.int/web/smile/>`_.
+| `Testing SMILE (ESA) (2022) <https://www.esa.int/ESA_Multimedia/Videos/2022/04/Highlights_from_the_test_campaign_of_the_Smile_payload_module_in_Europe>`_.
 
 
 |
@@ -350,7 +348,7 @@ Slow Boat to China (2020)
 
 .. youtube:: aSBcjAzKWfA
 
-| Produced for Paul van der Toolen.
+| Produced for `Paul van der Toolen <https://www.facebook.com/paul.vandertoolen/>`_.
 
 |
 
@@ -371,7 +369,7 @@ PLANETERRELLA, the Polar Light Simulator (2010)
 
 .. youtube:: uLIRl9ewCHk
 
-| Produced for `Europlanet <https://www.europlanet-society.org/>`_
+| Produced for `Europlanet <https://www.europlanet-society.org/>`_.
 
 |
 
