@@ -60,7 +60,6 @@ We the Zeme (2021)
 |
 
 
-
 VIS for Euclid (2020)
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -107,13 +106,12 @@ Astronomy & Astrophysics 50 Years Young (2019)
 Living the Tradition (2014/2017)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. youtube:: Kpdg_2KTags
+.. youtube:: jlCyqoanzt8
 
-(trailer)
 
 | Self-production in collaboration with `Ilse de Ziah <https://playcellomusic.com/>`_.
 | Film website with links and information `livingthetradition.com <http://livingthetradition.com/>`_.
-| Best Documentary Feature at the EIFF Film Festival (2014); Consonance Fan Award (2020).
+| Best Documentary Feature at the EIFF Film Festival (2014); Nomination for Best Documentary World Film (2018); Consonance Fan Award (2020).
 
 .. figure:: ./images/LivingTheTradition.jpg
    :scale: 25%
