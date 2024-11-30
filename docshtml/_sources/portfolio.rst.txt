@@ -149,7 +149,7 @@ Our Last Transit of Venus (2012)
 .. youtube:: G4lqwhm6SLg
 
 | Produced with the support of `EUROVENUS <https://www.eurovenus.eu/>`_, University of Oxford, `Europlanet <https://www.europlanet-society.org/>`_, `Paris-Meudon Observatory <https://www.obspm.fr>`_ (France), Observatoire de la Côte d'Azur (France).
-| `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd4JTfg6kzKE3FkE0p4vXs6x&si=WvIdOL5WPkXKtLOH>`__.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd4JTfg6kzKE3FkE0p4vXs6x&si=WvIdOL5WPkXKtLOH>`__.
 | El Trofeo `IAMS – BICC <https://asecic.org/>`_ Ronda 2016 a la mejor imagen (IAMS - BICC 2016 Trophy for best photography).
 
 
@@ -200,7 +200,7 @@ Spiral Galaxy, the Milkyway Unravelled(2009)
 .. youtube:: aKQvzf4zRZM
 
 | Self-production in collaboration with `Pieter-Rim de Kroon <https://www.pieterrimdekroon.com/>`_; supported by International Year of Astronomy 2009, `NOVA <https://www.astronomie.nl/over-nova>`_, `ZCENE <https://zcene.nl/>`_, `Media Junkies <https://www.mediajunkies.nl/>`_.
-| Spiral Galaxy, the Milkyway Unravelled (2009) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7O1GqlbGkItEPQjPyGfPRh&si=LudHcwz7HS5rGDyP>`__.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd7O1GqlbGkItEPQjPyGfPRh&si=LudHcwz7HS5rGDyP>`__.
 | Film website with links and background information `lightcurvefilms.com/spiralgalaxy <https://lightcurvefilms.com/spiralgalaxy/>`_.
 | Broadcast on Dutch `Holland Doc TV <https://www.vpro.nl/speel~POMS_S_VPRO_083953~holland-doc~.html>`_ channel (2009).
 
@@ -226,7 +226,7 @@ Exploring and Understanding the Universe (2011-2013)
 .. youtube:: v=0PcDwIFzC3
 
 | Produced for the `Paris-Meudon Observatory <https://www.obspm.fr>`_.
-| Exploring and Understanding the Universe (2011-2013) `(full playlist)   <https://youtube.com/playlist?list=PL7WXOBl9RPd7lXOG60XgpeoXefUuPBSpd&si=MqedNteDBirCvWM4>`__.
+| `full playlist   <https://youtube.com/playlist?list=PL7WXOBl9RPd7lXOG60XgpeoXefUuPBSpd&si=MqedNteDBirCvWM4>`__.
 
 |
 
@@ -244,10 +244,19 @@ Rosetta’s Comet Touchdown (2010)
 .. youtube:: IY2R1-RYCJ0
 
 | Produced for `ESA / Rosetta <https://www.esa.int/Science_Exploration/Space_Science/Rosetta>`_.
-| Rosetta’s Comet Touchdown (2010) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd4ZOwReKyYsZRz0FJmpLlsO&si=xXhcMERs0MLH6kMY>`__.
+| `full playlist  <https://youtube.com/playlist?list=PL7WXOBl9RPd4ZOwReKyYsZRz0FJmpLlsO&si=xXhcMERs0MLH6kMY>`__.
 
 
 
+Basic Bronchoscopy (2010)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: F7OztWEB9PQ
+
+| Produced for the `School of Respirology <https://bronchoscopy.nl/>`_.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd7JQeh6vS5qwJ7t835A-2Tz&si=ydLR2e8UemsLJ9Jg>`__.
+
+|
 
 Beyond the Red (2008)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -255,9 +264,9 @@ Beyond the Red (2008)
 .. youtube:: DzwLNB4-QAg
 
 | Produced for `ESA <https://esa.int>`_ and `Sterne Und Weltraum <https://www.spektrum.de/magazin/sterne-und-weltraum/>`_.
-| Beyond the Red (2008) `(full playlist)  <https://youtube.com/playlist?list=PL7WXOBl9RPd75SMKhV2OcpaQ6OiTRqxSl&si=r_P5fJBwmxba5Q5D>`__.
+| `full playlist  <https://youtube.com/playlist?list=PL7WXOBl9RPd75SMKhV2OcpaQ6OiTRqxSl&si=r_P5fJBwmxba5Q5D>`__.
 
-
+|
 
 
 A Breath of Venus (2007)
@@ -266,9 +275,10 @@ A Breath of Venus (2007)
 .. youtube:: pMXEmm-1CPA
 
 | Produced for `ESA / Venus Express <https://www.esa.int/Science_Exploration/Space_Science/Venus_Express>`_.
-| A Breath of Venus (2007) `(full playklist) <https://youtube.com/playlist?list=PL7WXOBl9RPd7xf5OG8pbQ81D5qoq45K6j&si=nJiiBEtOLuEmn243>`__.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd7xf5OG8pbQ81D5qoq45K6j&si=nJiiBEtOLuEmn243>`__.
 
 
+|
 
 Around Venus by Balloon  (2007)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -276,6 +286,8 @@ Around Venus by Balloon  (2007)
 .. youtube:: oSqm3Z0YR2M
 
 | Produced for the University of Oxford.
+
+|
 
 
 Arts
@@ -296,6 +308,18 @@ Mizu by Tadao Sawai (2014)
 |
 
 
+The Algarve Orchestra (2011)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: u_dqXhSsykQ
+
+
+| Self-production.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd4PP64bgmSZNKaB6ztHyQmZ&si=pDtNQEftr7Olhxsl>`_.
+
+|
+
+
 Events and Presentations
 ----------------------------
 
@@ -305,8 +329,21 @@ De Sitter Meesterastronoom (2016)
 
 .. youtube:: tv2EgemZ_0o
 
-| Self-production.
-| De Sitter Meesterastronoom (2016) `(full playlist) <https://youtube.com/playlist?list=PL7WXOBl9RPd5Aut_T1fR2XTODTmTKohj6&si=bWP-Y7GKyduc9CGo>`_.
+| Self-production (Dutch language only).
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd5Aut_T1fR2XTODTmTKohj6&si=bWP-Y7GKyduc9CGo>`__.
+| Conference held at 18 May 2010, Leiden, the Netherlands.
+
+|
+
+
+European Planetary Science Congress 2012
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: bhO4IQJoCGU
+
+| Produced for `Europlanet <https://www.europlanet-society.org/>`_.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd4i5dpyaLteCgrxeBHVlZB7&si=qtHYIa0jmNb5ubTP>`__.
+| Conference held at 23-28 September 2012, Madrid, Spain.
 
 |
 
@@ -324,8 +361,20 @@ Portret prof. dr. Kees de Jager (2011)
 
 .. youtube:: uO0vMlJIu-E
 
-| Produced for SRON, the Netherlands.
+| Produced for `SRON <https://www.sron.nl/>`_, the Netherlands.
 
+
+|
+
+
+Cassini-Huygens & Future Titan Exploration (2010)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: XiDISUi0IYM
+
+| Produced for `    ESA <https://esa.int>`_.
+| `full playlist <https://youtube.com/playlist?list=PL7WXOBl9RPd6KTiVUzuO1N_rOtG2CRnFK&si=nfOIBiSQ5wEcSFWL>`__.
+| Conference held at 13-15 January 2010 in Barcelona, Spain.
 
 |
 
