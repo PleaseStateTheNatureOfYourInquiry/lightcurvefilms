@@ -103,6 +103,19 @@ Astronomy & Astrophysics 50 Years Young (2019)
 
 |
 
+
+PicSat (2017-2018)
+^^^^^^^^^^^^^^^^^^
+
+.. youtube:: iKXa86nYsiY
+
+| Produced for Paris Observatory / PicSat project.
+| Explore `all videos <https://www.youtube.com/@iampicsat1420/videos>`__ in this project.
+| Enjoy curated `photo series <https://www.flickr.com/photos/picsat/>` of this project.
+
+|
+
+
 Living the Tradition (2014/2017)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
