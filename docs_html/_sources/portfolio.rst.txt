@@ -1,9 +1,10 @@
 
+.. _lcfportfolio:
 
-Lightcurve Films Portfolio
-==========================
 
-`Lightcurve Films Youtube channel <https://www.youtube.com/channel/UCOABPjFCPxAo3tXK7w1A2Pw>`_.
+Lightcurve Films selected portfolio
+===================================
+
 
 
 Documentaries
