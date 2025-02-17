@@ -417,13 +417,23 @@ TransAstra Corporation (2019 - 2022)
 
 .. youtube:: IByXgnS7C1I
 
+|
+
 .. youtube:: X5GKz9XLh70
+
+|
 
 .. youtube:: t3ZnIQOmdG4?
 
+|
+
 .. youtube:: X5GKz9XLh70
 
+
+|
+
 .. youtube:: hLijoedlE2A
+
 
 | Produced for `TransAstra Corp <https://transastra.com>`_.
 | I did editing and post-production.
