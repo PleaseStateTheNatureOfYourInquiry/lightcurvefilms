@@ -412,6 +412,23 @@ Testing Smile (2022)
 |
 
 
+TransAstra Corporation (2019 - 20222)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: IByXgnS7C1I
+
+.. youtube:: X5GKz9XLh70
+
+.. youtube:: t3ZnIQOmdG4?
+
+.. youtube:: X5GKz9XLh70
+
+.. youtube:: hLijoedlE2A
+
+| Produced for `TransAstra Corp <https://transastra.com>`_.
+| I did editing and post-production.
+
+
 Slow Boat to China (2020)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
