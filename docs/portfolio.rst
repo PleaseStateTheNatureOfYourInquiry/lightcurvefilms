@@ -412,7 +412,7 @@ Testing Smile (2022)
 |
 
 
-TransAstra Corporation (2019 - 20222)
+TransAstra Corporation (2019 - 2022)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. youtube:: IByXgnS7C1I
