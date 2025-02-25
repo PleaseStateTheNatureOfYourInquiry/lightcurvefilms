@@ -10,6 +10,18 @@ Lightcurve Films selected portfolio
 Documentaries
 --------------
 
+Envision (2025-2031)
+^^^^^^^^^^^^^^^^^^^^
+
+.. youtube:: K_PuHHv7oa8
+
+| Produced for `ESA / Envision <https://www.esa.int/Science_Exploration/Space_Science/Envision>`_.
+| `Venus's mysteries: what we want to observe and discover with Envision (6 February 2025)<https://youtu.be/K_PuHHv7oa8?si=sU9fhG-0PjYNeCoW>`_.
+| `Envision Playlist (ESA) <https://youtube.com/playlist?list=PLYkdISzMpKQrNoqBZBehLCuREmo6TcBBM&si=fu6kdpZUwBoavEMj>`_.
+
+|
+
+
 
 Let's Smile (2024-2026)
 ^^^^^^^^^^^^^^^^^^^^^^^
